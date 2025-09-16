@@ -3,7 +3,6 @@
 - **Authors & Affiliation**: Heqing Ma, Jianfei Yu, Fanfan Wang, Hanyu Cao, Rui Xia  **School of Computer Science and Engineering, Nanjing University of Science and Technology**. 
 - **Journal/ Year**: **IEEE Transactions on Affective Computing (T-AFFC),  2025**
 - **JCR: Q1 （9.8）**
-- github链接：https://github.com/xiayan9/paper-reading/tree/9b40f1bac51b73ae4d5fd71a1aeb31e8ce29b112/emotion-cause-generation/0916From%20Extraction%20to%20Generation%20Multimodal%20Emotion%E2%80%93Cause%20Pair%20Generation%20in%20Conversations
 - Dataset: https://huggingface.co/datasets/NUSTM/ECGF/tree/main
 
 ---
@@ -154,5 +153,6 @@ A **BART-based sequence-to-sequence framework** with two strategies:
 ![image-20250916160515172](From Extraction to Generation Multimodal Emotion–Cause Pair Generation in Conversations.assets/image-20250916160515172.png)
 
 ### 7 Ablation Study
+
 
 ![image-20250916160650637](From Extraction to Generation Multimodal Emotion–Cause Pair Generation in Conversations.assets/image-20250916160650637.png)
